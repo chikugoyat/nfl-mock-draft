@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Las Vegas Raiders",
+    "needs": ["QB", "CB", "OL"],
+    "context": "No long-term QB after Geno Smith trade failed. Secondary leaks. O-line needs rebuilding."
+  },
+  {
+    "id": 2,
+    "name": "New York Jets",
+    "needs": ["OL", "WR", "QB"],
+    "context": "Full roster reset after trade deadline teardown. O-line is the foundation to rebuild."
+  },
+  {
+    "id": 3,
+    "name": "Arizona Cardinals",
+    "needs": ["QB", "OL", "WR"],
+    "context": "Kyler Murray’s future uncertain after 3-14 season. Offense needs major upgrades."
+  },
+  {
+    "id": 4,
+    "name": "Tennessee Titans",
+    "needs": ["OL", "WR", "EDGE"],
+    "context": "Must protect and support 2025 #1 pick Cam Ward. Need weapons and pass rush."
+  },
+  {
+    "id": 5,
+    "name": "New York Giants",
+    "needs": ["WR", "EDGE", "OL"],
+    "context": "Need playmakers around QB Jaxon Dart. Pass rush was inconsistent."
+  },
+  {
+    "id": 6,
+    "name": "Cleveland Browns",
+    "needs": ["EDGE", "WR", "CB"],
+    "context": "Fewest receiving yards in the NFL in 2025. Need pass rush help."
+  },
+  {
+    "id": 7,
+    "name": "Washington Commanders",
+    "needs": ["EDGE", "CB", "LB"],
+    "context": "Oldest roster in NFL. Defense needs youth and speed everywhere."
+  }
+]
