@@ -43,3 +43,8 @@ GROQ_API_KEY="gsk_your_api_key_here"
 npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+
+## Link for the loom Video
+*https://www.loom.com/share/c9c6101c1b0e443b96e2b1d7379d2bb2
+
